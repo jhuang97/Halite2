@@ -1,0 +1,1 @@
+python hlt_client\hlt_client\client.py gym -r "java MyBot" -r "java QueueBot11r" -r "java QueueBot11r" -r "java MyBot" -b "halite" -i 100 -H 300 -W 200
